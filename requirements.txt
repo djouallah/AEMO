@@ -1,0 +1,8 @@
+# Function dependencies, for example:
+urllib3
+regex
+google-cloud-storage
+gcsfs
+pytest-shutil
+pandas
+google-cloud-bigquery
